@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.35b07ecb.css",
-    "main.js": "/static/js/main.8826693d.js",
+    "main.css": "/static/css/main.cf7677ba.css",
+    "main.js": "/static/js/main.75c90fc5.js",
     "static/media/english.svg": "/static/media/english.dc2666400de7b82f2da0a13631a16d5b.svg",
     "static/media/touchpad-side.svg": "/static/media/touchpad-side.d192660fb94b95cbaeba31a7abb4dcd8.svg",
     "static/media/touchpad-static.svg": "/static/media/touchpad-static.58207815d29ffb0819fd2b27ce8e5186.svg",
@@ -9,11 +9,11 @@
     "static/media/icon.svg": "/static/media/icon.48838ea319acdc7d3e26083c41db8ff8.svg",
     "static/media/mouse-static.svg": "/static/media/mouse-static.98379a231132381c41508afff3247766.svg",
     "index.html": "/index.html",
-    "main.35b07ecb.css.map": "/static/css/main.35b07ecb.css.map",
-    "main.8826693d.js.map": "/static/js/main.8826693d.js.map"
+    "main.cf7677ba.css.map": "/static/css/main.cf7677ba.css.map",
+    "main.75c90fc5.js.map": "/static/js/main.75c90fc5.js.map"
   },
   "entrypoints": [
-    "static/css/main.35b07ecb.css",
-    "static/js/main.8826693d.js"
+    "static/css/main.cf7677ba.css",
+    "static/js/main.75c90fc5.js"
   ]
 }
