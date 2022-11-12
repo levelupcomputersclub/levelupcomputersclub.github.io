@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" overflow="hidden">
+    <path id="Cable" d="M120.608,119.069L-2.558,26.207L-1.67,34.829L112.359,126.402L120.608,119.069Z" style="fill:url(#_Linear1);stroke:url(#_Linear2);stroke-width:1px;"/>
+    <g id="Mouse">
+        <path id="LMB" d="M136.076,126.6L132.104,131.03C130.676,133.468 130.48,135.944 133.326,138.515L162.198,165.677C168.462,171.651 179.152,172.997 184.826,165.97L207.417,182.664L162.351,221.619L145.394,237.965C129.825,253.93 119.64,269.703 122.327,285.016L66.721,221.466C49.418,198.28 52.772,177.547 67.346,162.722L120.441,117.123C123.471,116.647 126.285,117.092 129.048,119.42L136.076,126.6Z" style="fill:rgb(26,27,31);stroke:black;stroke-width:1px;"/>
+        <g id="MMB">
+            <path d="M173.109,168.859C171.422,169.444 168.777,168.305 165.004,165.135L133.538,136.189L140.835,131.033L179.63,162.397L173.109,168.859Z" style="fill:rgb(26,27,31);stroke:black;stroke-width:1px;"/>
+            <path id="MMB1" d="M140.121,127.011C149.25,121.763 157.335,123.299 162.847,128.062L177.865,140.677L183.271,146.433C189.289,154.187 188.167,159.737 183.371,164.154C180.493,167.01 176.121,168.807 173.109,168.859C176.167,164.816 165.725,152.572 157.623,146.793C143.86,134.607 137.478,133.965 133.564,136.221C133.155,133.776 134.523,130.792 140.121,127.011" style="fill:rgb(59,59,59);stroke:black;stroke-width:1px;"/>
+            <path d="M179.702,147.384C176.405,150.092 173.045,152.291 169.615,153.931" style="fill:none;stroke:black;stroke-width:1px;"/>
+            <path d="M176.048,144.28C173.891,146.999 170.52,149.177 165.961,150.828" style="fill:none;stroke:black;stroke-width:1px;"/>
+            <path d="M172.493,140.676L162.407,147.223" style="fill:none;stroke:black;stroke-width:1px;"/>
+            <path d="M168.989,137.672L158.903,144.22" style="fill:none;stroke:black;stroke-width:1px;"/>
+            <path d="M165.836,134.869L155.749,141.417" style="fill:none;stroke:black;stroke-width:1px;"/>
+            <path d="M162.732,131.866C159.37,134.048 156.008,136.231 152.646,138.413" style="fill:none;stroke:black;stroke-width:1px;"/>
+            <path d="M158.778,129.413L148.691,135.96" style="fill:none;stroke:black;stroke-width:1px;"/>
+            <path d="M154.773,127.411C150.657,129.844 147.501,132.108 144.987,134.008" style="fill:none;stroke:black;stroke-width:1px;"/>
+            <path d="M150.343,126.425C146.122,128.982 142.725,131.319 140.507,133.342" style="fill:none;stroke:black;stroke-width:1px;"/>
+            <path d="M145.995,126.265C142.428,128.327 139.178,130.706 136.545,133.702" style="fill:none;stroke:black;stroke-width:1px;"/>
+            <path d="M182.355,150.637C178.993,154.048 175.631,156.31 172.268,157.185" style="fill:none;stroke:black;stroke-width:1px;"/>
+            <path d="M184.107,154.592C181.257,158.182 177.939,160.486 174.02,161.14" style="fill:none;stroke:black;stroke-width:1px;"/>
+            <path d="M185.208,158.897C182.455,162.162 179.076,164.315 175.122,165.445" style="fill:none;stroke:black;stroke-width:1px;"/>
+        </g>
+        <path id="RMB" d="M293.764,136.255C287.693,135.92 281.78,137.47 275.97,140.264C268.573,143.329 261.33,146.577 255.243,151.214L228.845,168.03L209.78,181.131L186.706,164.804C191.89,159.92 191.272,152.575 182.404,142.513L163.535,125.892C155.011,119.46 146.465,121.131 138.897,125.696L132.249,119.048C129.441,116.731 126.454,115.072 122.863,115.626C137.388,103.612 155.006,93.877 174.485,85.513C189.967,77.818 206.776,75.497 227.476,88.935L293.764,136.255Z" style="fill:rgb(26,27,31);stroke:black;stroke-width:1px;"/>
+        <path id="Body" d="M295.171,138.476L361.707,202.326C402.086,240.455 431.969,282.45 449.128,329.133C461.36,378.496 462.599,425.803 424.662,465.785C405.136,489.802 369.495,499.004 324.709,499.799C294.585,500.085 258.603,489.295 248.029,468.172L208.047,401.338L151.656,321.077L124.232,287.414C123.223,275.297 126.644,263.733 135.412,252.838C150.408,236.574 169.808,218.548 191.324,199.676C197.627,194.207 204.258,188.575 210.725,183.025C219.085,176.926 236.804,165.303 265.109,146.82C278.042,140.085 287.94,137.47 295.171,138.476Z" style="fill:rgb(26,27,31);stroke:black;stroke-width:1px;"/>
+        <g style="filter:url(#_Effect3);">
+            <path id="Shading" d="M72.026,189.952C109.891,213.039 143.642,242.77 173.232,279.224L281.122,420.292C330.348,483.382 388.952,457.232 442.922,431.137C431.973,460.232 393.464,494.475 343.673,496.241C310.228,497.428 277.655,495.128 252.001,468.031C227.142,407.517 187.535,361.751 150.079,313.834C120.025,276.683 95.671,247.753 69.438,220.792C54.281,195.413 61.25,193.654 72.026,189.952Z" style="fill-opacity:0.33;"/>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(123.166,0,0,100.194,-2.55801,76.3045)"><stop offset="0" style="stop-color:white;stop-opacity:0"/><stop offset="1" style="stop-color:rgb(96,91,91);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(123.166,0,0,100.194,-2.55801,76.3045)"><stop offset="0" style="stop-color:white;stop-opacity:0"/><stop offset="1" style="stop-color:black;stop-opacity:1"/></linearGradient>
+        <filter id="_Effect3" filterUnits="userSpaceOnUse" x="25.547" y="154.809" width="452.518" height="376.815">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="5.85714"/>
+        </filter>
+    </defs>
+</svg>
