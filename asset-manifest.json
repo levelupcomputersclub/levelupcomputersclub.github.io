@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.cf7677ba.css",
-    "main.js": "/static/js/main.dbf3d2e1.js",
+    "main.css": "/static/css/main.49110ac8.css",
+    "main.js": "/static/js/main.2bb687c2.js",
     "static/media/english.svg": "/static/media/english.dc2666400de7b82f2da0a13631a16d5b.svg",
-    "static/media/touchpad-side.svg": "/static/media/touchpad-side.d192660fb94b95cbaeba31a7abb4dcd8.svg",
+    "static/media/touchpad.svg": "/static/media/touchpad.03b699d23e48a00e2dda968b5a00fb60.svg",
     "static/media/touchpad-static.svg": "/static/media/touchpad-static.58207815d29ffb0819fd2b27ce8e5186.svg",
     "static/media/german.svg": "/static/media/german.a6ef473310a1e32be81d540a7abe1cb2.svg",
     "static/media/mouse-top.svg": "/static/media/mouse-top.62e876f00e0bc0b37950383648eb6f18.svg",
     "static/media/icon.svg": "/static/media/icon.48838ea319acdc7d3e26083c41db8ff8.svg",
     "static/media/mouse-static.svg": "/static/media/mouse-static.98379a231132381c41508afff3247766.svg",
     "index.html": "/index.html",
-    "main.cf7677ba.css.map": "/static/css/main.cf7677ba.css.map",
-    "main.dbf3d2e1.js.map": "/static/js/main.dbf3d2e1.js.map"
+    "main.49110ac8.css.map": "/static/css/main.49110ac8.css.map",
+    "main.2bb687c2.js.map": "/static/js/main.2bb687c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf7677ba.css",
-    "static/js/main.dbf3d2e1.js"
+    "static/css/main.49110ac8.css",
+    "static/js/main.2bb687c2.js"
   ]
 }
