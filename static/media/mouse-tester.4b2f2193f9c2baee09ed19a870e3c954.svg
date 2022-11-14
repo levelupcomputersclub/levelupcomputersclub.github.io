@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 1024 769" version="1.1" xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" class="test">
+<svg width="100%" height="100%" viewBox="0 0 1024 769" version="1.1" xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
     <g transform="matrix(1,0,0,1,-1.58069,-1.75637)">
         <path d="M717.967,170.923C718.396,68.866 673.694,23.485 593.56,22.6L474.499,22.858C386.014,21.572 336.897,66.354 336.468,168.113L339.279,515.185C342.281,808.947 718.947,787.233 716.562,513.078L717.967,170.923Z" style="fill:white;stroke:rgb(59,59,59);stroke-width:3.65px;"/>
     </g>
@@ -61,7 +61,7 @@
             fill: white;
         }
         #LMB.active {
-            fill: red;
+            fill: green;
         }
         #MMB path {
             fill:rgb(27,27,27);
