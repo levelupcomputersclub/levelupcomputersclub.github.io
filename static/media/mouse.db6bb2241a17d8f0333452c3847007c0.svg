@@ -272,6 +272,9 @@
             from {
                 transform: translate(0px, 720px)
             }
+            2% {
+                transform: translate(0px, 720px)
+            }
             10% {
                 transform: translate(0, 0);
             }
@@ -291,7 +294,10 @@
         }
         @keyframes topOpacity {
             from {
-                opacity: 1;
+                opacity: 0;
+            }
+            2%{
+                opacity:1;
             }
             14% {
                 opacity:1;
