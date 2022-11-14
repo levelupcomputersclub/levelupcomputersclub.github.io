@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1024 769" version="1.1" xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" class="test">
+    <g transform="matrix(1,0,0,1,-1.58069,-1.75637)">
+        <path d="M717.967,170.923C718.396,68.866 673.694,23.485 593.56,22.6L474.499,22.858C386.014,21.572 336.897,66.354 336.468,168.113L339.279,515.185C342.281,808.947 718.947,787.233 716.562,513.078L717.967,170.923Z" style="fill:white;stroke:rgb(59,59,59);stroke-width:3.65px;"/>
+    </g>
+    <path id="LMB" d="M525.709,22.783L467.105,22.922C384.193,24.238 335.342,66.936 336.672,170.6C336.672,170.6 336.67,225.532 337.435,252.233L525.841,250.743L525.709,22.783Z" />
+    <g id="RMB" transform="matrix(-1,0,0,1,1052.42,-0.575542)">
+        <path d="M523.587,23.254L467.105,22.922C385.653,21.578 336.283,65.582 337.497,170.364L338.024,251.997L523.012,251.097L523.587,23.254Z" />
+    </g>
+    <g transform="matrix(1.58333,0,0,1,-308.825,0.59567)">
+        <path d="M529.292,22.047L527.082,22.047L527.082,89.632L520.064,89.664L520.053,178.569L527.181,178.504L527.113,250.007L529.395,250.118L529.333,178.484L536.919,178.414L536.627,89.589L529.483,89.621L529.292,22.047Z"/>
+    </g>
+    <g id="MMB" transform="matrix(1,0,0,1,0.058688,0.161296)">
+        <path d="M536.179,92.255L519.064,92.255C515.497,122.283 515.791,150.901 519.305,177.709L535.455,177.77C538.803,149.445 539.429,120.741 536.179,92.255Z" />
+    </g>
+    <g transform="matrix(1,0,0,1,39.0454,2.39428)">
+        <path d="M481.157,91.814L496.305,91.814" style="fill:none;stroke:rgb(59,59,59);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,39.0454,84.2301)">
+        <path d="M481.157,91.814L496.305,91.814" style="fill:none;stroke:rgb(59,59,59);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,39.0454,3.31811)">
+        <path d="M480.131,97.185L496.848,97.185" style="fill:none;stroke:rgb(59,59,59);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,39.0454,4.84545)">
+        <path d="M479.406,101.953L497.451,101.953" style="fill:none;stroke:rgb(59,59,59);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,39.0454,5.95034)">
+        <path d="M478.984,107.143L497.813,107.143" style="fill:none;stroke:rgb(59,59,59);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,39.0454,6.99487)">
+        <path d="M478.803,112.394L498.357,112.394" style="fill:none;stroke:rgb(59,59,59);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,39.0454,7.49625)">
+        <path d="M478.622,118.187L498.357,118.187" style="fill:none;stroke:rgb(59,59,59);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,39.0454,7.52689)">
+        <path d="M478.059,124.452L498.53,124.452" style="fill:none;stroke:rgb(59,59,59);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,39.0454,7.68064)">
+        <path d="M478.059,130.593L498.762,130.593" style="fill:none;stroke:rgb(59,59,59);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,39.0454,7.71852)">
+        <path d="M478.098,136.85L498.453,136.85" style="fill:none;stroke:rgb(59,59,59);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,39.0454,6.98392)">
+        <path d="M478.214,143.88L498.376,143.88" style="fill:none;stroke:rgb(59,59,59);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,39.0454,6.63555)">
+        <path d="M478.716,150.523L498.106,150.523" style="fill:none;stroke:rgb(59,59,59);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,39.0454,6.55756)">
+        <path d="M478.871,156.896L497.526,156.896" style="fill:none;stroke:rgb(59,59,59);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,39.0454,5.97745)">
+        <path d="M479.952,163.772L496.87,163.772" style="fill:none;stroke:rgb(59,59,59);stroke-width:1px;"/>
+    </g>
+    <style>
+        #LMB {
+            fill: white;
+        }
+        #LMB.active {
+            fill: red;
+        }
+        #MMB path {
+            fill:rgb(27,27,27);
+        }
+        #MMB.active path {
+            fill:red;
+        }
+        #RMB path {
+            fill: white;
+        }
+        #RMB.active path {
+            fill: red;
+        }
+    </style>
+</svg>

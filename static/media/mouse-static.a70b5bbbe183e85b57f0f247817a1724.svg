@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" overflow="hidden">
+<svg width="100%" height="100%" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" overflow="hidden" calcMode="discrete">
     <path id="Cable" d="M120.608,119.069L-2.558,26.207L-1.67,34.829L112.359,126.402L120.608,119.069Z" style="fill:url(#_Linear1);stroke:url(#_Linear2);stroke-width:1px;"/>
     <g id="Mouse">
         <path id="LMB" d="M136.076,126.6L132.104,131.03C130.676,133.468 130.48,135.944 133.326,138.515L162.198,165.677C168.462,171.651 179.152,172.997 184.826,165.97L207.417,182.664L162.351,221.619L145.394,237.965C129.825,253.93 119.64,269.703 122.327,285.016L66.721,221.466C49.418,198.28 52.772,177.547 67.346,162.722L120.441,117.123C123.471,116.647 126.285,117.092 129.048,119.42L136.076,126.6Z" style="fill:rgb(26,27,31);stroke:black;stroke-width:1px;"/>
