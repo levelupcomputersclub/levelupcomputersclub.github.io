@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.bbb0bee6.css",
-    "main.js": "/static/js/main.5a41f392.js",
+    "main.css": "/static/css/main.0284f451.css",
+    "main.js": "/static/js/main.1b235909.js",
     "static/media/english.svg": "/static/media/english.dc2666400de7b82f2da0a13631a16d5b.svg",
-    "static/media/touchpad.svg": "/static/media/touchpad.f4f87cd7936883d361479362c63d895b.svg",
+    "static/media/touchpad.svg": "/static/media/touchpad.325cc3345efe7de95e0fa08e861d8696.svg",
     "static/media/touchpad-click.svg": "/static/media/touchpad-click.04277d639c3248a3d4fd450a9bd87821.svg",
-    "static/media/mouse.svg": "/static/media/mouse.13446474ec8d405d64d83f6c2e389387.svg",
+    "static/media/mouse.svg": "/static/media/mouse.6ad3b9d3dd2d5f1bd7caf8bbaabfe159.svg",
     "static/media/touchpad-static.svg": "/static/media/touchpad-static.8610f422157f4e64ff0610917f166456.svg",
     "static/media/german.svg": "/static/media/german.a6ef473310a1e32be81d540a7abe1cb2.svg",
     "static/media/mouse-click.svg": "/static/media/mouse-click.ff718e0115b22b6a39608f113601fa4a.svg",
@@ -14,11 +14,11 @@
     "static/media/touchpad-tester.svg": "/static/media/touchpad-tester.d35cf35fda985d2a18519bf498e3e575.svg",
     "static/media/icon.svg": "/static/media/icon.48838ea319acdc7d3e26083c41db8ff8.svg",
     "index.html": "/index.html",
-    "main.bbb0bee6.css.map": "/static/css/main.bbb0bee6.css.map",
-    "main.5a41f392.js.map": "/static/js/main.5a41f392.js.map"
+    "main.0284f451.css.map": "/static/css/main.0284f451.css.map",
+    "main.1b235909.js.map": "/static/js/main.1b235909.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbb0bee6.css",
-    "static/js/main.5a41f392.js"
+    "static/css/main.0284f451.css",
+    "static/js/main.1b235909.js"
   ]
 }

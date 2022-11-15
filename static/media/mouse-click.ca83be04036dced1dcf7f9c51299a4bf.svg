@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1024 769" version="1.1" xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" calcMode="discrete">
+    <g id="Mouse" transform="matrix(0.221453,0,0,0.221453,32.8058,43.2788)">
+        <g transform="matrix(1,0,0,1,-101.52,-140.098)">
+            <path d="M2175.16,1611.53L905.354,2018.23L377.672,2141.99L984.682,2806.04C984.682,2806.04 2235.05,2964.91 2742.41,2968.83C3173.71,2972.17 4028.83,2829.59 4028.83,2829.59C4028.83,2829.59 4171.15,2685.69 4151.65,2601.6C3980.4,1863.24 2849.39,1191.72 2056.55,1379.14C2125.6,1459.01 2160.71,1523.9 2175.16,1611.53Z" style="fill:url(#_Linear1);stroke:black;stroke-width:8.97px;"/>
+        </g>
+        <path id="LMB" d="M1938.52,1241.34C1353.26,1280.59 763.444,1517.82 171.251,1858.59L254.025,1983.8L785.166,1861.27L2056.77,1451.85C2041.87,1383.32 2005.4,1313.34 1938.52,1241.34Z" style="fill:rgb(137,137,137);stroke:black;stroke-width:7.13px;"/>
+    </g>
+    <g id="Hand" transform="matrix(0.221453,0,0,0.221453,0,0)">
+        <g id="Finger">
+            <path d="M2562.27,768.907L2477.19,1642.75C2229.66,1688.32 2051.55,1673.73 1958.18,1589.1C1819.04,1664.72 1626.33,1692.13 1348.57,1642.99C1336.3,1664.47 1148.39,1756.82 1067.77,1763.68C921.016,1776.16 515.226,1937.03 515.226,1937.03C428.04,1972.03 124.015,1829.99 287.364,1706.48C400.061,1621.27 859.101,1364.5 1021.15,1253.12C1109.02,1192.72 1208.03,1150.02 1312.97,1123.36C1540.03,1065.68 2126.27,917.137 2358.63,820.831C2430.13,791.2 2495.8,772.687 2562.27,768.907Z" style="fill:rgb(192,140,113);stroke:rgb(13,18,21);stroke-width:5.05px;"/>
+            <g transform="matrix(1,0,0,1,-0.733707,-9.44452)">
+                <path d="M2016.79,1433.19L1958.32,1594" style="fill:none;stroke:rgb(13,18,21);stroke-width:3.21px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,12.6902,-12.6901)">
+                <path d="M1113.29,1219.02C1107.76,1258.1 1120.37,1290.6 1153.87,1315.49" style="fill:none;stroke:rgb(13,18,21);stroke-width:3.21px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,12.6902,-12.6901)">
+                <path d="M1167.84,1212.37L1191.8,1272.24" style="fill:none;stroke:rgb(13,18,21);stroke-width:3.21px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,12.6902,-12.6901)">
+                <path d="M1372.1,1123.21C1373.25,1154.12 1365.85,1181.9 1347.48,1205.71" style="fill:none;stroke:rgb(13,18,21);stroke-width:3.21px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-2035.73,114.279)">
+                <path d="M2444.02,1516.52C2387.12,1542.36 2300.68,1612.67 2303.9,1612.4C2303.9,1612.4 2353.83,1600.55 2375.93,1588.17C2401.61,1573.78 2444.02,1516.52 2444.02,1516.52Z" style="fill:rgb(195,125,88);"/>
+            </g>
+        </g>
+        <path d="M2488.12,1534.82L2562.27,768.907C2627.07,765.221 2692.64,775.538 2765.12,803.207C3049.21,911.661 3757.61,1179.79 4072.3,1279.7C4270.1,1342.5 4679.26,1418.28 4679.26,1418.28L4740.48,2765.74C4740.48,2765.74 4453.15,2706.98 4385.27,2702.3C4241.7,2692.39 4112.46,2827.93 4009.81,2868.14C3763.18,2964.74 3569.96,3008.7 3491.89,3008.18C3330.9,3007.1 3015.71,2927.52 3015.71,2927.52C3015.71,2927.52 2114.07,2807.62 2021.83,2816.44C1738.74,2843.52 1438.75,2855.98 1258.15,2813.94C1119.63,2781.69 920.726,2753.26 912.234,2564.18C907.456,2457.81 959.3,2283.4 1324.14,2178.48C1523.55,2121.14 1868.63,2106.15 2054.87,2077.25C2184.44,2057.14 2441.57,2005.07 2441.57,2005.07C2437.14,2002.11 2440.35,1873.34 2452.61,1813.74C2460.68,1774.5 2469.73,1703 2476.68,1642.22C2483.38,1583.52 2488.12,1534.82 2488.12,1534.82Z" style="fill:rgb(192,140,113);stroke:rgb(13,18,21);stroke-width:5.05px;"/>
+        <g transform="matrix(1,0,0,1,-1219.5,826.952)">
+            <path d="M2447.34,1482.59C2378.12,1487.63 2149.82,1517.64 2162.19,1718.19C2174.15,1912.24 2321.11,1911.25 2405.96,1911.98C2444.02,1912.31 2527.87,1923.26 2557,1879.37C2572.9,1855.41 2556.49,1505.22 2549.58,1496.35C2537.34,1480.63 2481.64,1480.1 2447.34,1482.59Z" style="fill:rgb(195,125,88);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,12.6902,-12.6901)">
+            <path d="M1758.74,2153.95C1741.02,2322.71 1747.23,2494.14 1768.49,2667.24" style="fill:none;stroke:rgb(13,18,21);stroke-width:3.21px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,12.6902,-12.6901)">
+            <path d="M1661.28,2241.66C1639.52,2351.13 1641.89,2455.43 1680.78,2551.91" style="fill:none;stroke:rgb(13,18,21);stroke-width:3.21px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,12.6902,-12.6901)">
+            <path d="M1632.05,2173.44C1534.12,2314.01 1509.59,2480.1 1610.93,2689.97" style="fill:none;stroke:rgb(13,18,21);stroke-width:3.21px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,12.6902,-12.6901)">
+            <path d="M1614.18,2545.41L1692.15,2753.32" style="fill:none;stroke:rgb(13,18,21);stroke-width:3.21px;"/>
+        </g>
+        <path d="M2619.85,773.138C2566.67,767.478 2527.46,773.101 2498.46,786.975L2440.34,1369.84L2554.69,1374.07L2619.85,773.138Z" style="fill:rgb(192,140,113);"/>
+    </g>
+    <g id="Arrow" transform="matrix(9.73988e-17,-1.59064,1.59064,9.73988e-17,-451.18,795.293)">
+        <path d="M452.036,345.306L338.942,345.306L338.942,337.27L304.854,372.654L338.942,409.699L338.942,402.285L452.036,402.285L452.036,345.306Z" style="fill:rgb(255,0,0);"/>
+    </g>
+    <g id="Click" transform="matrix(0.221453,0,0,0.221453,0,0)">
+        <g transform="matrix(0.961822,-0.0565191,-0.0565191,0.916329,73.6515,166.562)">
+            <path d="M746.554,2020.26L332.35,1407.07" style="fill:none;stroke:black;stroke-width:76.74px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-10.152,-75.1252)">
+            <path d="M862.287,2001.98L896.818,1401.8" style="fill:none;stroke:black;stroke-width:67.75px;"/>
+        </g>
+        <path d="M996.294,1981.68L1359.74,1545.14" style="fill:none;stroke:black;stroke-width:67.75px;"/>
+        <path d="M588.182,2091.32L56.215,1987.77" style="fill:none;stroke:black;stroke-width:67.75px;"/>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(60.8107,1583.08,-679.861,26.1154,2157.45,1355.48)"><stop offset="0" style="stop-color:rgb(250,250,250);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(112,112,112);stop-opacity:1"/></linearGradient>
+    </defs>
+    <style>
+        #Arrow {
+            animation-name: arrow;
+            animation-duration: 5s;
+            animation-direction: normal;
+            animation-fill-mode: forwards;
+            animation-iteration-count: infinite;
+            animation-timing-function: ease-in-out;
+            opacity:0;
+        }
+
+        @keyframes arrow {
+            from {
+                opacity:0;
+            }
+            20% {
+                opacity:0;
+            }
+            25% {
+                opacity:1;
+            }
+            65% {
+                opacity:1;
+            }
+            70% {
+                opacity:0;
+            }
+        }
+
+        #LMB {
+            animation-name: lmb;
+            animation-duration: 5s;
+            animation-direction: normal;
+            animation-fill-mode: forwards;
+            animation-iteration-count: infinite;
+            animation-timing-function: linear;
+            transform-origin: top right;
+            rotate: 0deg;
+        }
+        @keyframes lmb {
+            from {
+                rotate: 0deg;
+            }
+            35% {
+                rotate:0deg;
+            }
+            40% {
+                rotate:-1deg;
+            }
+            45% {
+                rotate:0deg;
+            }
+            50% {
+                rotate:-1deg;
+            }
+            55% {
+                rotate:0deg;
+            }
+        }
+
+        #Finger {
+            animation-name: finger;
+            animation-duration: 5s;
+            animation-direction: normal;
+            animation-fill-mode: forwards;
+            animation-iteration-count: infinite;
+            animation-timing-function: linear;
+            transform-origin: 250% 100%;
+            transform: rotate(0deg);
+        }
+        @keyframes finger {
+            from {
+                transform: rotate(0deg);
+            }
+            35% {
+                transform: rotate(0deg);
+            }
+            40% {
+                transform: rotate(-1deg);
+            }
+            45% {
+                transform: rotate(0deg);
+            }
+            50% {
+                transform: rotate(-1deg);
+            }
+            55% {
+                transform: rotate(0deg);
+            }
+        }
+
+        #Click {
+            opacity:0;
+            animation-name: click;
+            animation-duration: 5s;
+            animation-direction: normal;
+            animation-fill-mode: forwards;
+            animation-iteration-count: infinite;
+            animation-timing-function: ease-in-out;
+        }
+        @keyframes click {
+            from {
+                opacity:0;
+            }
+            35% {
+                opacity:0;
+            }
+            40% {
+                opacity:1;
+            }
+            45% {
+                opacity:0;
+            }
+            50% {
+                opacity:1;
+            }
+            55% {
+                opacity:0;
+            }
+        }
+    </style>
+</svg>
