@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.91ea7f56.css",
-    "main.js": "/static/js/main.9e49b642.js",
+    "main.css": "/static/css/main.66354f48.css",
+    "main.js": "/static/js/main.45ff82a6.js",
     "static/media/english.svg": "/static/media/english.dc2666400de7b82f2da0a13631a16d5b.svg",
     "static/media/touchpad.svg": "/static/media/touchpad.325cc3345efe7de95e0fa08e861d8696.svg",
     "static/media/touchpad-click.svg": "/static/media/touchpad-click.04277d639c3248a3d4fd450a9bd87821.svg",
@@ -15,11 +15,11 @@
     "static/media/mouse-tester.svg": "/static/media/mouse-tester.4b2f2193f9c2baee09ed19a870e3c954.svg",
     "static/media/touchpad-tester.svg": "/static/media/touchpad-tester.d35cf35fda985d2a18519bf498e3e575.svg",
     "index.html": "/index.html",
-    "main.91ea7f56.css.map": "/static/css/main.91ea7f56.css.map",
-    "main.9e49b642.js.map": "/static/js/main.9e49b642.js.map"
+    "main.66354f48.css.map": "/static/css/main.66354f48.css.map",
+    "main.45ff82a6.js.map": "/static/js/main.45ff82a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.91ea7f56.css",
-    "static/js/main.9e49b642.js"
+    "static/css/main.66354f48.css",
+    "static/js/main.45ff82a6.js"
   ]
 }
